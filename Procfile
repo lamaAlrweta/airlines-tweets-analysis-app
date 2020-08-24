@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run airlines tweets analysis app.py
+web: sh setup.sh && streamlit run app.py
