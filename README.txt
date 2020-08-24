@@ -1,4 +1,3 @@
-Penguins web app deployed on Heroku
 The deployed web app is live at https://airlines-tweets-analysis-app.herokuapp.com/
 This web app analyzes tweets about the airline and performs the following tasks :
 - It randomly displays the negative,positive and natural Tweets
